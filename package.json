@@ -1,0 +1,11 @@
+{
+  "name": "adoptare",
+  "version": "1.0.0",
+  "description": "adoptare animale",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghena",
+  "license": "ISC"
+}
