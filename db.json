@@ -1,0 +1,95 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Vanea",
+      "imgUrl": "#",
+      "description": "Tolcovii",
+      "donation": 50
+    },
+    {
+      "id": 2,
+      "name": "Vanea",
+      "imgUrl": "#",
+      "description": "Tolcovii",
+      "donation": 50
+    },
+    {
+      "id": 3,
+      "name": "Vanea",
+      "imgUrl": "#",
+      "description": "Tolcovii",
+      "donation": 50
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "",
+      "imgUrl": "",
+      "description": "",
+      "donation": 0,
+      "id": 11
+    },
+    {
+      "name": "zcvx",
+      "imgUrl": "fdf",
+      "description": "xcvx",
+      "donation": 0,
+      "id": 12
+    },
+    {
+      "name": "zcvx",
+      "imgUrl": "fdf",
+      "description": "xcvx",
+      "donation": 0,
+      "id": 13
+    },
+    {
+      "name": "zcvx",
+      "imgUrl": "fdf",
+      "description": "xcvx",
+      "donation": 0,
+      "id": 14
+    },
+    {
+      "name": "crocodil",
+      "imgUrl": "https://animaljournal.ru/articles/wild/reptilii/nilskiy_krokodil/kak_viglyadit_nilskiy_krokodil.jpg",
+      "description": "este cuminte",
+      "donation": 0,
+      "id": 15
+    },
+    {
+      "name": "",
+      "imgUrl": "",
+      "description": "",
+      "donation": 0,
+      "id": 16
+    },
+    {
+      "name": "crocodil",
+      "imgUrl": "https://animaljournal.ru/articles/wild/reptilii/nilskiy_krokodil/kak_viglyadit_nilskiy_krokodil.jpg",
+      "description": "este cuminte",
+      "donation": 0,
+      "id": 17
+    }
+  ]
+}
