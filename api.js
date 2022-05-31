@@ -10,7 +10,7 @@ const createAnimal = (objAnimal) => {
                 "Content-Type": "application/json"
             },
             body: JSON.stringify(objAnimal)
-
-        }).then(response => response.json())
+        })
+        .then(response => response.json())
 }
 

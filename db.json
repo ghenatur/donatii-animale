@@ -3,93 +3,30 @@
     {
       "id": 1,
       "name": "Vanea",
-      "imgUrl": "#",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUkBRqpxGuvGQUid_RAHQp6JEPlJTt8Tcev9TP-iUDoRgBFqP4I-E4A9se6hSq05CW1w&usqp=CAU",
       "description": "Tolcovii",
-      "donation": 50
+      "donation": 0
     },
     {
-      "id": 2,
-      "name": "Vanea",
-      "imgUrl": "#",
-      "description": "Tolcovii",
-      "donation": 50
+      "id": 51,
+      "name": "Murca",
+      "imgUrl": "https://images.squarespace-cdn.com/content/v1/5a6af6418dd0410bf87e4957/1643719920297-NZPFCXM8WT06BUM31GNN/unsplash-image-5-ckjYvTZQw.jpg",
+      "description": "cuminte",
+      "donation": 0
     },
     {
-      "id": 3,
-      "name": "Vanea",
-      "imgUrl": "#",
-      "description": "Tolcovii",
-      "donation": 50
+      "id": 52,
+      "name": "croco",
+      "imgUrl": "https://stihi.ru/pics/2013/03/14/3408.jpg",
+      "description": " jucaus",
+      "donation": 0
     },
     {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "name": "",
-      "imgUrl": "",
-      "description": "",
-      "donation": 0,
-      "id": 11
-    },
-    {
-      "name": "zcvx",
-      "imgUrl": "fdf",
-      "description": "xcvx",
-      "donation": 0,
-      "id": 12
-    },
-    {
-      "name": "zcvx",
-      "imgUrl": "fdf",
-      "description": "xcvx",
-      "donation": 0,
-      "id": 13
-    },
-    {
-      "name": "zcvx",
-      "imgUrl": "fdf",
-      "description": "xcvx",
-      "donation": 0,
-      "id": 14
-    },
-    {
-      "name": "crocodil",
-      "imgUrl": "https://animaljournal.ru/articles/wild/reptilii/nilskiy_krokodil/kak_viglyadit_nilskiy_krokodil.jpg",
-      "description": "este cuminte",
-      "donation": 0,
-      "id": 15
-    },
-    {
-      "name": "",
-      "imgUrl": "",
-      "description": "",
-      "donation": 0,
-      "id": 16
-    },
-    {
-      "name": "crocodil",
-      "imgUrl": "https://animaljournal.ru/articles/wild/reptilii/nilskiy_krokodil/kak_viglyadit_nilskiy_krokodil.jpg",
-      "description": "este cuminte",
-      "donation": 0,
-      "id": 17
+      "id": 53,
+      "name": "Kesa",
+      "imgUrl": "https://pasariexotice.net/wp-content/uploads/2021/11/papagal-rasa-300x200.jpg",
+      "description": "stie 3 cuvinte",
+      "donation": 0
     }
   ]
 }
